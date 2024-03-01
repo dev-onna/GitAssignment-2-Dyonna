@@ -1,2 +1,2 @@
 # GitAssignment-2-Dyonna
-my got assignment 2
+my git assignment 2
